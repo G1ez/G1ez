@@ -46,36 +46,11 @@ Actualmente desarrollo soluciones para instituciones públicas y proyectos perso
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 📱 WhatsApp Business API
-
-API desarrollada con Laravel para centralizar el envío de notificaciones mediante WhatsApp Business Platform, diseñada para ser consumida por múltiples sistemas.
-
-### 🏛️ SIDIG
-
-Sistema para la gestión y consulta de regulaciones, dependencias y documentación institucional.
-
-### 🌐 Portafolio Personal
-
-Sitio desarrollado con Astro donde presento mis proyectos, experiencia y tecnologías.
-
----
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=G1ez&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1ez&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ## 📫 Contacto
 
 * 🌐 Portafolio *(Próximamente)*
-* 💼 LinkedIn *(Agrega aquí tu perfil)*
-* 📧 Correo *(Agrega aquí tu correo profesional)*
+![💼 LinkedIn] (https://www.linkedin.com/in/miguel-%C3%A1ngel-gonzalez-santillan-3197b0279/)
+![📧 E-Mail] (miguelglezedu@gmail.com)
 
 ---
 
