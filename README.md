@@ -96,16 +96,13 @@ Currently working as a **Full Stack Developer**, building enterprise systems and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=G1ez&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800" 
+  <img
+    height="170"
+    src="https://github-readme-stats-jtn0afw1q-g1ez1.vercel.app/api?username=G1ez&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800"
   />
-</p>
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1ez&layout=compact&hide_border=true&theme=radical&cache_seconds=1800" 
+  <img
+    height="170"
+    src="https://github-readme-stats-jtn0afw1q-g1ez1.vercel.app/api/top-langs/?username=G1ez&layout=compact&hide_border=true&theme=radical&cache_seconds=1800"
   />
 </p>
 
