@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Miguel Glez (G1ez)
-![Git Face](./assets/face.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="Git Face de Miguel González" src="./assets/light.svg">
+</picture>
 ### Software Engineer | Backend Developer | Laravel • PHP • Python • REST APIs
 
 I'm a Software Engineer passionate about backend development, enterprise software, and scalable web applications. I enjoy designing clean architectures, building RESTful APIs, and solving real-world problems through technology.
