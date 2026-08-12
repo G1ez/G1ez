@@ -46,11 +46,11 @@ Currently working as a **Full Stack Developer**, building enterprise systems and
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge/&logo=HTML5\)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css\)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge\&logo=Bootstrap\)
-![Twig](https://img.shields.io/badge/Twig-000000?style=for-the-badge\&logo=twig\)
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge\&logo=astro\)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge/&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge\&logo=Bootstrap)
+![Twig](https://img.shields.io/badge/Twig-000000?style=for-the-badge\&logo=twig)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge\&logo=astro)
 ![React](https://img.shields.io/badge/React-000000?style+for-the-badge\&logo=React)
 
 ---
