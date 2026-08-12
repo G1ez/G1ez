@@ -26,47 +26,48 @@ Currently working as a **Full Stack Developer**, building enterprise systems and
 
 ### Programming Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 ---
 
 ### Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge\&logo=laravel\&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-000000?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ---
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-BACF29?style=for-the-badge\&logo=twig\&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge\&logo=astro\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge/&logo=HTML5\)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css\)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge\&logo=Bootstrap\)
+![Twig](https://img.shields.io/badge/Twig-000000?style=for-the-badge\&logo=twig\)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge\&logo=astro\)
+![React](https://img.shields.io/badge/React-000000?style+for-the-badge\&logo=React)
 
 ---
 
 ### Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ---
 
 ### Data Science
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Data Mining](https://img.shields.io/badge/Data_Mining-4CAF50?style=for-the-badge)
-![Orange](https://img.shields.io/badge/Orange_Data_Mining-F58220?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data_Mining-000000?style=for-the-badge)
+![Orange](https://img.shields.io/badge/Orange_Data_Mining-000000?style=for-the-badge)
 
 ---
 
@@ -79,32 +80,6 @@ Currently working as a **Full Stack Developer**, building enterprise systems and
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-* 📱 WhatsApp Business API
-* 🏛️ Government Digital Platforms
-* 💳 Loan Management Platform
-* 🏋️ Gym Management SaaS
-* ⚰️ Funeral Service Tracking System
-* 🎓 Educational Platform for Kids
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-eight-amber-30.vercel.app/api?username=G1ez&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-eight-amber-30.vercel.app/api/top-langs/?username=G1ez&layout=compact&hide_border=true&theme=radical&cache_seconds=1800"
-  />
-</p>
 
 ---
 
