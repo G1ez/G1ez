@@ -86,7 +86,7 @@ Currently working as a **Full Stack Developer**, building enterprise systems and
 
 * 💼 LinkedIn: [www.linkedin.com/in/miguel-ángel-gonzalez-santillan-3197b0279](http://www.linkedin.com/in/miguel-ángel-gonzalez-santillan-3197b0279)
 * 📧 Email: [miguelglezedu@gmail.com](mailto:miguelglezedu@gmail.com)
-* 🌐 Portfolio: [https://g1ez.vercel.app/] (https://g1ez.vercel.app/)
+* 🌐 Portfolio: [https://g1ez.vercel.app/](https://g1ez.vercel.app/)
 
 ---
 
